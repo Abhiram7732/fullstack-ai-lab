@@ -31,7 +31,6 @@ Rather than being a finished commercial product, this repository documents a han
   <img src="docs/images/homepage.png" alt="Fullstack AI Lab application preview" width="90%" />
 </p>
 
-<p align="center"><em>Application interface — replace this placeholder with your own screenshot.</em></p>
 
 ---
 
