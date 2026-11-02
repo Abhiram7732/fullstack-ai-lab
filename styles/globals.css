@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+/* Force dark mode via a .dark class instead of the OS setting */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #0a0714;
+  --foreground: #ede9fe;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* Custom palette: overrides the Tailwind colors your JSX already uses */
+@theme {
+  /* Accent (was blue/indigo): buttons, gradient title, price text */
+  --color-blue-50:  #1a1233;
+  --color-blue-600: #8b5cf6;
+  --color-blue-700: #7c3aed;
+  --color-indigo-100: #120d24;
+  --color-indigo-600: #d946ef;
+  --color-indigo-700: #c026d3;
+
+  /* Surfaces and text (were gray) */
+  --color-gray-900: #0a0714;
+  --color-gray-800: #17122b;
+  --color-gray-600: #7d7799;
+  --color-gray-400: #9a94b8;
+  --color-gray-300: #d8d4ea;
+  --color-gray-200: #ebe7f7;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  /* ...keep all your existing .markdown-content rules exactly as they are... */
+
+  /* Only change: hr color, plus optional heading accent */
+  .markdown-content hr {
+    border: 0;
+    border-top: 1px solid #2e2650;   /* was #e5e7eb */
+    margin: 2em 0;
+  }
+  .markdown-content h1,
+  .markdown-content h2,
+  .markdown-content h3 {
+    color: #c4b5fd;
+  }
+  .markdown-content strong {
+    color: #f5d0fe;
+  }
+}
