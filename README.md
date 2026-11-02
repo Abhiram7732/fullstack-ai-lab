@@ -25,6 +25,7 @@ Rather than being a finished commercial product, this repository documents a han
 ## Application Preview
 
 <!-- Add your actual application screenshot at docs/images/homepage.png -->
+<img width="1772" height="852" alt="image" src="https://github.com/user-attachments/assets/57658288-ce8c-43e0-ba8b-39681aa7661f" />
 
 <p align="center">
   <img src="docs/images/homepage.png" alt="Fullstack AI Lab application preview" width="90%" />
