@@ -66,7 +66,7 @@ flowchart TD
 | Area | Technologies |
 |---|---|
 | Frontend | Next.js, React, TypeScript |
-| Styling | Tailwind CSS, custom CSS |
+| Styling | Tailwind CSS |
 | Backend | Python, FastAPI |
 | AI Integration | Hosted AI APIs |
 | Authentication | Clerk |
