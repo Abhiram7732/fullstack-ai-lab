@@ -195,9 +195,6 @@ Reference: [Vercel Deployment Documentation](https://vercel.com/docs/deployments
 
 ---
 
-## UI Customization
-
-The application also serves as a space to experiment with visual design, including custom colors, styling, and interface details.
 
 <!-- Optional: replace with an actual screenshot of your customized UI -->
 
