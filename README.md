@@ -27,6 +27,8 @@ Rather than being a finished commercial product, this repository documents a han
 <!-- Add your actual application screenshot at docs/images/homepage.png -->
 <img width="1772" height="852" alt="image" src="https://github.com/user-attachments/assets/57658288-ce8c-43e0-ba8b-39681aa7661f" />
 
+<img width="1652" height="853" alt="image" src="https://github.com/user-attachments/assets/32fe05f4-ffb8-463d-8a1e-80b7bf57da28" />
+
 <p align="center">
 
 </p>
