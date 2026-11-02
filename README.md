@@ -224,12 +224,6 @@ Reference: [Vercel Deployment Documentation](https://vercel.com/docs/deployments
 
 This repository documents ongoing exploration and implementation. Some features or integrations may be incomplete, and the application is not presented as a production-ready SaaS product.
 
-## Security
-
-- Keep API keys and secret credentials in environment variables.
-- Never commit `.env.local` or other files containing secrets.
-- Avoid including authentication tokens, private deployment information, or credentials in screenshots.
-- Use test credentials when experimenting with integrations.
 
 ## Learning Goal
 
