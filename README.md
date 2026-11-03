@@ -33,7 +33,7 @@ Rather than being a finished commercial product, this repository documents a han
 
 
 <p align="center">
-Manage Profiles , Billing , Subscriptions, Acess Features
+Manage Profiles , Billing , Subscriptions, Access Features
 </p>
 
 
