@@ -29,7 +29,8 @@ Rather than being a finished commercial product, this repository documents a han
 
 <img width="1652" height="853" alt="image" src="https://github.com/user-attachments/assets/32fe05f4-ffb8-463d-8a1e-80b7bf57da28" />
 <img width="882" height="813" alt="Screenshot 2026-11-02 122643" src="https://github.com/user-attachments/assets/fd5e04e8-626d-4324-be73-567c17e58dbe" />
-<img width="1607" height="828" alt="Untitled Design" src="https://github.com/user-attachments/assets/706c8421-3dc7-463a-80b5-a8215aa5dcae" />
+<img width="1607" height="828" alt="Untitled Design (1)" src="https://github.com/user-attachments/assets/bc102513-e733-4ffa-9298-79109ec12ec2" />
+
 
 
 <p align="center">
