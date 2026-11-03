@@ -28,6 +28,8 @@ Rather than being a finished commercial product, this repository documents a han
 <img width="1772" height="852" alt="image" src="https://github.com/user-attachments/assets/57658288-ce8c-43e0-ba8b-39681aa7661f" />
 
 <img width="1652" height="853" alt="image" src="https://github.com/user-attachments/assets/32fe05f4-ffb8-463d-8a1e-80b7bf57da28" />
+<img width="882" height="813" alt="Screenshot 2026-11-02 122643" src="https://github.com/user-attachments/assets/fd5e04e8-626d-4324-be73-567c17e58dbe" />
+
 
 <p align="center">
 
