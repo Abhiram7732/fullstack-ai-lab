@@ -11,6 +11,8 @@ An experimental project exploring how modern web technologies, AI services, auth
   <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Clerk-Authentication-6C47FF?logo=clerk&logoColor=white" alt="Clerk" />
+  <img width="982" height="341" alt="image" src="https://github.com/user-attachments/assets/fd1c3ce0-3fb4-4213-849b-816c77c841f8" />
+
   <img src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel" alt="Vercel" />
 </p>
 
