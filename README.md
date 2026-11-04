@@ -11,7 +11,7 @@ An experimental project exploring how modern web technologies, AI services, auth
   <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Clerk-Authentication-6C47FF?logo=clerk&logoColor=white" alt="Clerk" />
-  <img width="982" height="341" alt="image" src="https://github.com/user-attachments/assets/fd1c3ce0-3fb4-4213-849b-816c77c841f8" />
+  
 
   <img src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel" alt="Vercel" />
 </p>
@@ -31,6 +31,8 @@ Rather than being a finished commercial product, this repository documents a han
 
 <img width="1652" height="853" alt="image" src="https://github.com/user-attachments/assets/32fe05f4-ffb8-463d-8a1e-80b7bf57da28" />
 <img width="882" height="813" alt="Screenshot 2026-11-02 122643" src="https://github.com/user-attachments/assets/fd5e04e8-626d-4324-be73-567c17e58dbe" />
+<img width="982" height="341" alt="image" src="https://github.com/user-attachments/assets/7727c265-3324-4618-8c12-fbe1b76ccb85" />
+
 <img width="1607" height="828" alt="Untitled Design (2)" src="https://github.com/user-attachments/assets/cae4e61c-a042-403d-9897-3f5c8ade40ff" />
 
 
